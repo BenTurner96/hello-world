@@ -1,2 +1,4 @@
 # hello-world
-This is my first thing following the tutorial
+Hey guys
+========
+I'm pretty new to the coding business and am looking to learn so that I can start a career in web design.
